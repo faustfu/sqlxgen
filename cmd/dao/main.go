@@ -43,8 +43,8 @@ const (
 	DefaultGormFlag          = false
 	DefaultGureguFlag        = true
 	DefaultSqlxFlag          = true
-	DefaultPackage           = "dto"
-	DefaultPath              = ".."
+	DefaultPackage           = "dao"
+	DefaultPath              = "../.."
 	DefaultCreatedColumn     = "created_at"
 	DefaultUpdatedColumn     = "updated_at"
 	DefaultSystemColumns     = DefaultCreatedColumn + "," + DefaultUpdatedColumn

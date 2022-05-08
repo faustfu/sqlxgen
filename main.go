@@ -2,7 +2,7 @@ package main
 
 import (
 	"context"
-	. "faust.link/sqlxgen/dto"
+	. "faust.link/sqlxgen/dao"
 	"fmt"
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/jmoiron/sqlx"
