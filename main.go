@@ -2,8 +2,8 @@ package main
 
 import (
 	"context"
-	. "faust.link/sqlxgen/dao"
 	"fmt"
+	. "github.com/faustfu/sqlxgen/dao"
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/jmoiron/sqlx"
 	"gopkg.in/guregu/null.v4"
