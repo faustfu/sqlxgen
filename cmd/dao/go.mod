@@ -1,4 +1,4 @@
-module wota_be.tapgo.cc/sqlxgen
+module faust.link/sqlxgen/dao
 
 go 1.18
 
