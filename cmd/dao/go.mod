@@ -1,4 +1,4 @@
-module faust.link/sqlxgen/dao
+module github.com/faustfu/sqlxgen/cmd/dao
 
 go 1.18
 

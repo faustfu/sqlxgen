@@ -84,3 +84,5 @@ func initDB(url string) (*sqlx.DB, error) {
 
 	return db, nil
 }
+
+//go:generate cmd/tt/main -packageNames .
