@@ -1,4 +1,4 @@
-module github.com/faustfu/sqlxgen
+module github.com/faustfu/sqlxgen/sample
 
 go 1.18
 

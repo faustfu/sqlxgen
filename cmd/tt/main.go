@@ -32,8 +32,8 @@ func main() {
 	if len(ps) != 1 {
 		log.Fatalf("error: %d packages found", len(ps))
 	}
-
 	p := *ps[0]
+
 	log.Println(p)
 }
 

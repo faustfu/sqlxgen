@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 	"fmt"
-	. "github.com/faustfu/sqlxgen/dao"
+	. "github.com/faustfu/sqlxgen/sample/dao"
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/jmoiron/sqlx"
 	"gopkg.in/guregu/null.v4"

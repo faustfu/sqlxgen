@@ -44,7 +44,7 @@ const (
 	DefaultGureguFlag        = true
 	DefaultSqlxFlag          = true
 	DefaultPackage           = "dao"
-	DefaultPath              = "../.."
+	DefaultPath              = "../../sample"
 	DefaultCreatedColumn     = "created_at"
 	DefaultUpdatedColumn     = "updated_at"
 	DefaultSystemColumns     = DefaultCreatedColumn + "," + DefaultUpdatedColumn
